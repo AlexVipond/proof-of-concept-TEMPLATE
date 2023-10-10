@@ -1,5 +1,5 @@
 <template>
-  <main class="h-screen w-screen flex items-center justify-center bg-gray-900">
+  <main class="w-screen h-screen flex items-center justify-center bg-gray-950">
     <h1 class="text-2xl tracking-widest font-bold uppercase text-gray-400">TITLE</h1>
   </main>
 </template>
